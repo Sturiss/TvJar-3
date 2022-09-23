@@ -3,3 +3,5 @@
     2¡¢git add .
 
     3¡¢git commit -m "Ìá½»ÃèÊö"   
+    
+    git pull origin master --allow-unrelated-histories
